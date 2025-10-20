@@ -1,1 +1,1 @@
-# DiagnotiscoEmpresarial
+# Sistema de Diagnóstico Empresarial
